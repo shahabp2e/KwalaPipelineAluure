@@ -1,1 +1,1 @@
-[]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":108,"buildName":"Kwala_CICD #108","buildUrl":"http://localhost:8080/job/Kwala_CICD/108/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/Kwala_CICD/108/allure"}]
