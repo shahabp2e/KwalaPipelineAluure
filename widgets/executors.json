@@ -1,1 +1,1 @@
-[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":100,"buildName":"Kwala_CICD #100","buildUrl":"http://localhost:8080/job/Kwala_CICD/100/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/Kwala_CICD/100/allure"}]
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":102,"buildName":"Kwala_CICD #102","buildUrl":"http://localhost:8080/job/Kwala_CICD/102/","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/Kwala_CICD/102/allure"}]
