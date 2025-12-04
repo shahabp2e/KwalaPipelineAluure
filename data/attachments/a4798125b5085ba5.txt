@@ -1,0 +1,5 @@
+{
+    "syntax_check": false,
+    "schema_validation": false,
+    "error": "invalid YAML: YAML file is missing required fields: Name. Please add them and try again."
+}

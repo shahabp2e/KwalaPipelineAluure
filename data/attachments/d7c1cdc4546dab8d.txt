@@ -1,0 +1,2 @@
+Request URL: https://kwala-test.kalp.network/workflow/actionLog/view/deployer/0x7e9969a38a49c05f34f26cb605425566ff3a5a7c
+Request Method: GET

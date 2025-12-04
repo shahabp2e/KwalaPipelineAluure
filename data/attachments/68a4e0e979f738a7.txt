@@ -1,0 +1,4 @@
+Request URL: http://143.110.186.152:3001/webhooks/oraclePrice
+Request Method: POST
+Request Body:
+{"name":"tusharbitcoin","oraclePriceReceiveUrl":"http://143.110.186.152:3000/dagRuns","secret":"secretToken","contractAddress":"0xB8c77482e45F1F44dE1745F52C74426C631bDD52","chainId":"1","price":"645"}

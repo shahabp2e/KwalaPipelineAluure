@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "Failed to fetch latest price for 0x1234567890123456789012345678901234567890 at 1 : Fetching price failed: {\"message\":\"No liquidity pools found for the specified token address\"}"
+}

@@ -1,0 +1,4 @@
+{
+    "syntax_check": true,
+    "schema_validation": true
+}

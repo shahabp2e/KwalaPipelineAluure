@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "Failed to fetch latest price for 0xabcdefghijklmnopqrstuvwxyz1234567890 at 1 : Fetching price failed: {\"message\":\"address with value '0xabcdefghijklmnopqrstuvwxyz1234567890' is not a valid hex address\"}"
+}

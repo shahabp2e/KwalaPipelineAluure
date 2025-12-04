@@ -1,0 +1,4 @@
+Request URL: https://kwala-test.kalp.network/workflow/status/update
+Request Method: POST
+Request Body:
+{"status":"running","workflow_id":"workflow_123"}

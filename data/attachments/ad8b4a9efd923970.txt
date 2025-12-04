@@ -1,0 +1,2 @@
+Request URL: https://kwala-test.kalp.network/explorer/actions
+Request Method: GET

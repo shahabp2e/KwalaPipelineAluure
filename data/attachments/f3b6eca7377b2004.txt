@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "chain_id parameter is required"
+}

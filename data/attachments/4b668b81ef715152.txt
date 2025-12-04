@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "chaincode_address must be a 40-character hexadecimal address with 0x prefix"
+}

@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "Failed to deploy contract: Insufficient funds in 0x37D041281eBf650330336526297b343bC455F68C on AmChain. Transaction requires > 0.69199955 AMC."
+}

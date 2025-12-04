@@ -1,0 +1,3 @@
+{
+    "chaincode_address": "ab7fc7d8c954a68dc8a13d764c45eee15afdcfd3"
+}

@@ -1,0 +1,2 @@
+Request URL: https://kwala-test.kalp.network/user/getBalance/kwl-6035d43251499b9126f2804b8d794d725f14f089-cc
+Request Method: GET

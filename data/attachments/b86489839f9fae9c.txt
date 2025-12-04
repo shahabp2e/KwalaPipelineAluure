@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "chaincode_address parameter is required"
+}

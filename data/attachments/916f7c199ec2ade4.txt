@@ -1,0 +1,2 @@
+Request URL: http://143.110.186.152:3001/fetchTokensWithChainInfo
+Request Method: GET

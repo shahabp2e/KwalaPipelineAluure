@@ -1,0 +1,22 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=101
+ETag=W/"65-csB21CE5k1ZrDsRPRe/XPNLDoqc"
+Date=Thu, 04 Dec 2025 04:33:29 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 411 ms
+
+Response Body:
+{
+    "success": true,
+    "data": {
+        "tokenName": "Wrapped SOL",
+        "tokenSymbol": "SOL",
+        "usdPrice": 144.48339155836715
+    }
+}

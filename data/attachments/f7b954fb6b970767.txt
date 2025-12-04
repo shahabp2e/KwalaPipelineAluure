@@ -1,0 +1,2 @@
+Request URL: https://kwala-test.kalp.network/gas-fees/logs/view/7e9969A38a49c05F34f26Cb605425566FF3a5a7c
+Request Method: GET
