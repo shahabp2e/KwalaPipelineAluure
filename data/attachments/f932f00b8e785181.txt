@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=170
+ETag=W/"aa-Om/Pj1fHzMCXPz49B2JmUatfH8c"
+Date=Fri, 05 Dec 2025 04:55:19 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 2770 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "Failed to deploy contract: Insufficient funds in 0x37D041281eBf650330336526297b343bC455F68C on AmChain. Transaction requires > 0.69199955 AMC."
+}
