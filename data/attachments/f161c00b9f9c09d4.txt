@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "Failed to deploy contract: [RPC] {\"code\":-32000,\"message\":\"replacement transaction underpriced\"}"
+}

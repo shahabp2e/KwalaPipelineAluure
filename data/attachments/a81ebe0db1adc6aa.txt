@@ -1,8 +1,0 @@
-{
-    "success": true,
-    "data": {
-        "tokenName": "ChainLink Token",
-        "tokenSymbol": "LINK",
-        "usdPrice": 14.264450494918837
-    }
-}
