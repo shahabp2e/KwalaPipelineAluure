@@ -1,8 +1,0 @@
-{
-    "success": true,
-    "data": {
-        "tokenName": "Wrapped SOL",
-        "tokenSymbol": "SOL",
-        "usdPrice": 137.2450145731578
-    }
-}

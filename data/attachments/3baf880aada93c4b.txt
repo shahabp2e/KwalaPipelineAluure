@@ -1,0 +1,19 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+Date=Sat, 06 Dec 2025 04:34:06 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=22
+Connection=keep-alive
+content-security-policy=default-src 'self'
+strict-transport-security=max-age=315360000
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+x-envoy-upstream-service-time=1337
+server=istio-envoy
+Response Time: 1407 ms
+
+Response Body:
+{
+    "gas_fees_logs": null
+}

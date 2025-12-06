@@ -1,4 +1,0 @@
-{
-    "success": false,
-    "error": "explorer API error: Max calls per sec rate limit reached (3/sec)"
-}
