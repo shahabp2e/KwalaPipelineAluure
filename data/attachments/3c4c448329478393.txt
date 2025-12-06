@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=67
+ETag=W/"43-1ExjU1yzNl5bt5Bp1E+F4uA0oIU"
+Date=Sat, 06 Dec 2025 11:43:49 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 987 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "Failed to deploy contract: fetch failed"
+}
