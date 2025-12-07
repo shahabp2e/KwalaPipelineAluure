@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "data": {
+        "tokenName": "Uniswap",
+        "tokenSymbol": "UNI",
+        "usdPrice": 5.548530478450071
+    }
+}
