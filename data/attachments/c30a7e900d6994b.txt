@@ -1,0 +1,4 @@
+{
+    "success": false,
+    "error": "Failed to fetch latest price for invalid_address_format at 1 : Fetching price failed: {\"message\":\"address with value 'invalid_address_format' is not a valid hex address\"}"
+}

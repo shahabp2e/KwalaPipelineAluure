@@ -1,0 +1,19 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=117
+ETag=W/"75-1vKynqXZ2qd9NuhEhqwWCcQ9bcI"
+Date=Sun, 07 Dec 2025 04:33:37 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 800 ms
+
+Response Body:
+{
+    "success": true,
+    "subscriptionId": "498dd6e0-56ba-45f7-8c21-376b7e1ea579",
+    "createdAt": "2025-12-07T04:33:36.997248367Z"
+}

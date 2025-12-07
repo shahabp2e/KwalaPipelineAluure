@@ -1,0 +1,1 @@
+{"args":["abc","2"],"chainId":80002,"functionSignature":"function testFunction(string memory _x , uint _y) public","contractAddress":"0xc5e7b1d73d9d86a18ef1a38594d6e4233c7ab602","rpcUrl":""}

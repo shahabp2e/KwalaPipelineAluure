@@ -1,0 +1,19 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+Date=Sun, 07 Dec 2025 04:33:43 GMT
+Content-Type=application/json; charset=utf-8
+Content-Length=32
+Connection=keep-alive
+content-security-policy=default-src 'self'
+strict-transport-security=max-age=315360000
+x-content-type-options=nosniff
+x-xss-protection=1; mode=block
+x-envoy-upstream-service-time=50
+server=istio-envoy
+Response Time: 119 ms
+
+Response Body:
+{
+    "balance": "354600000000000000"
+}

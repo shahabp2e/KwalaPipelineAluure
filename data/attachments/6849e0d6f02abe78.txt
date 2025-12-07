@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "data": {
+        "tokenName": "Wrapped BTC",
+        "tokenSymbol": "WBTC",
+        "usdPrice": 89516.26995225901
+    }
+}
