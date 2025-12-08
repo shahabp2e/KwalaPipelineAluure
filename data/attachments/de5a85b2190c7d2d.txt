@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=75
+ETag=W/"4b-E0NkDSB5tq9xOn34zPj7tOZCqEw"
+Date=Mon, 08 Dec 2025 11:33:32 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 106 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "The number of parameters and values must match."
+}

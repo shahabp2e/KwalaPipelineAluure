@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=202
+ETag=W/"ca-1+2r2p9waVRABCk2WobCbX6N064"
+Date=Mon, 08 Dec 2025 11:33:28 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 558 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "Failed to fetch latest price for invalid_address_format at 1 : Fetching price failed: {\"message\":\"address with value 'invalid_address_format' is not a valid hex address\"}"
+}
