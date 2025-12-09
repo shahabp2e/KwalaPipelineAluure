@@ -1,5 +1,0 @@
-{
-    "success": true,
-    "contractAddress": "0x495273405ad55248c8b2a4a6be0a0a6134cf144c",
-    "transactionHash": "0xf3502c3f1e99623df7fbfd438ec44ae70ba9e3a2134dbadc937f4e4d47bda483"
-}

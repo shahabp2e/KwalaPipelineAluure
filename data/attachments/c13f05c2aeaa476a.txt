@@ -1,0 +1,5 @@
+{
+    "success": true,
+    "subscriptionId": "20c8c168-43be-43ba-9dba-45706dc157c2",
+    "createdAt": "2025-12-09T11:49:20.923769926Z"
+}

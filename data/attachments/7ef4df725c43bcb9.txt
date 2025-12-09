@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "data": {
+        "tokenName": "Matic Token",
+        "tokenSymbol": "MATIC",
+        "usdPrice": 0.12221766731673818
+    }
+}

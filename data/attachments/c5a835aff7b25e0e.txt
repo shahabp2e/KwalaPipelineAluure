@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=240
+ETag=W/"f0-F1G++fp0wfWAW1yvSh4BKui26mU"
+Date=Tue, 09 Dec 2025 11:40:06 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 330 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "Failed to fetch latest price for 0x123456789012345678901234567890123456789 at 1 : Fetching price failed: {\"message\":\"address with value '0x123456789012345678901234567890123456789' is not a valid hex address\"}"
+}
