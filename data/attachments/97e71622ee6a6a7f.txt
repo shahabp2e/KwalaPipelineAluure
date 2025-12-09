@@ -1,5 +1,0 @@
-{
-    "success": true,
-    "subscriptionId": "be9c73d0-bcfb-4573-b5a3-6b2da9bd0f24",
-    "createdAt": "2025-12-08T11:33:38.334037661Z"
-}

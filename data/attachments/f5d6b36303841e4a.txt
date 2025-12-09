@@ -1,5 +1,0 @@
-{
-    "success": true,
-    "transaction": "0x7749eb85e0d78127f6c8f99a2a8ebd2980b5a7d039289f1ad34f1bc7a7a7992b",
-    "queue_id": "idemp-1765193601603"
-}
