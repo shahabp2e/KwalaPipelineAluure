@@ -1,0 +1,8 @@
+{
+    "average_execution_time_ms": 0.10825467414127052,
+    "chains_used": [
+        "Polygon Amoy"
+    ],
+    "failed_count": 0,
+    "successful_count": 53957
+}

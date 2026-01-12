@@ -1,0 +1,24 @@
+Response Status Code: 404
+Response Status Line: HTTP/1.1 404 Not Found
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Security-Policy=default-src 'none'
+X-Content-Type-Options=nosniff
+Content-Type=text/html; charset=utf-8
+Content-Length=150
+Date=Mon, 12 Jan 2026 11:06:33 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 180 ms
+
+Response Body:
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Error</title>
+  </head>
+  <body>
+    <pre>Cannot POST /checkPrice</pre>
+  </body>
+</html>

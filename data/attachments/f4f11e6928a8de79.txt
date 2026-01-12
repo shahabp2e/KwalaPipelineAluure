@@ -1,0 +1,19 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=166
+ETag=W/"a6-VZx2oI9pEyteBGnJbmEu8R03ML0"
+Date=Mon, 12 Jan 2026 10:48:26 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 24580 ms
+
+Response Body:
+{
+    "success": true,
+    "contractAddress": "0x9f0e27f528752451d0d36147936e1663ecf0fe09",
+    "transactionHash": "0x45f20cc847b4d2c3f99eb6002fd7dd15635866197094efcf81971317f7211520"
+}

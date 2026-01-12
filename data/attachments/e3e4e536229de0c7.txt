@@ -1,4 +1,0 @@
-Request URL: http://143.110.186.152:3001/transactions
-Request Method: POST
-Request Body:
-{"args":["abc","2"],"chainId":80002,"functionSignature":"function testFunction(string memory _x , uint _y) public","contractAddress":"0x4b91841faa0cff18d96282b8573953ccbf4a5075","rpcUrl":""}

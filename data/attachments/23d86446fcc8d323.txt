@@ -1,4 +1,0 @@
-{
-    "success": true,
-    "message": "Webhook active successfully!"
-}
