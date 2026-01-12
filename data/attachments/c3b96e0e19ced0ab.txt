@@ -1,0 +1,18 @@
+Response Status Code: 500
+Response Status Line: HTTP/1.1 500 Internal Server Error
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=208
+ETag=W/"d0-4l8L9yiGom1C4oyroeod75oIi2k"
+Date=Mon, 12 Jan 2026 11:44:30 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 361 ms
+
+Response Body:
+{
+    "success": false,
+    "error": "Failed to fetch latest price for 0xa0b86a33e6441b8c4c8b8c4c8b8c4c8b8c4c8b8c at 1 : Fetching price failed: {\"message\":\"No liquidity pools found for the specified token address\"}"
+}

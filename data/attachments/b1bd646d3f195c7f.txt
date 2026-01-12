@@ -1,0 +1,22 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=104
+ETag=W/"68-ZdplCQnKeMEP/zVejQCF/Tzl1t0"
+Date=Mon, 12 Jan 2026 11:44:31 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 332 ms
+
+Response Body:
+{
+    "success": true,
+    "data": {
+        "tokenName": "Matic Token",
+        "tokenSymbol": "MATIC",
+        "usdPrice": 0.15049955335110618
+    }
+}

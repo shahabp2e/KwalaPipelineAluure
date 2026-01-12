@@ -1,0 +1,22 @@
+Response Status Code: 200
+Response Status Line: HTTP/1.1 200 OK
+Response Headers:
+X-Powered-By=Express
+Access-Control-Allow-Origin=*
+Content-Type=application/json; charset=utf-8
+Content-Length=96
+ETag=W/"60-0cy7wUOoBKSZhg2YNU+VYJaBS4Y"
+Date=Mon, 12 Jan 2026 11:39:51 GMT
+Connection=keep-alive
+Keep-Alive=timeout=5
+Response Time: 368 ms
+
+Response Body:
+{
+    "success": true,
+    "data": {
+        "tokenName": "Uniswap",
+        "tokenSymbol": "UNI",
+        "usdPrice": 7.772594323936158
+    }
+}
